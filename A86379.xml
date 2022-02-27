@@ -1,0 +1,193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties going from the Isle of Wight and the answer of the Lord Major, aldermen, and Common councell, to the Lord Fairfax his letter to the City of London. Also, a letter from the Lord Generall Fairfax, concerning the citizens of London that have guarded the Parliament, and the head-quarters now at St. Iames, the mewes, and other places about the city. With the armies appeal from the Parliament to the kingdom, and a letter from the Parliament to the Lord Generall. A full relation touching Col. Hamond, and other passages in the Isle of Wight. The originall papers were read, and this is published for generall satisfaction to the kingdom.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86379</idno>
+            <idno type="STC">Wing H2081</idno>
+            <idno type="STC">Thomason E475_5</idno>
+            <idno type="STC">ESTC R205381</idno>
+            <idno type="EEBO-CITATION">99864782</idno>
+            <idno type="PROQUEST">99864782</idno>
+            <idno type="VID">162467</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86379)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162467)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 76:E475[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties going from the Isle of Wight and the answer of the Lord Major, aldermen, and Common councell, to the Lord Fairfax his letter to the City of London. Also, a letter from the Lord Generall Fairfax, concerning the citizens of London that have guarded the Parliament, and the head-quarters now at St. Iames, the mewes, and other places about the city. With the armies appeal from the Parliament to the kingdom, and a letter from the Parliament to the Lord Generall. A full relation touching Col. Hamond, and other passages in the Isle of Wight. The originall papers were read, and this is published for generall satisfaction to the kingdom.</title>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Robinson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Dec: 4th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century.</term>
+               <term>Isle of Wight (England) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162467:1" rendition="simple:additions"/>
+            <p>HIS MAJESTIES Going from the Iſle of WIGHT AND The Anſwer of the Lord Major, Aldermen, and Common councell, to the Lord Fairfax his Letter to the City of LONDON.</p>
+            <p>ALSO, A Letter from the Lord Generall Fairfax, concerning the Citizens of London that have guarded the Parliament, and the Head-quarters now at St. Iames, the Mewes, and other places about the City.</p>
+            <p>WITH The Armies Appeal from the Parliament to the Kingdom, and a Letter from the Parliament to the Lord Gene<g ref="char:EOLhyphen"/>rall. A full Relation touching Col. Hamond, and other paſſages in the Iſle of WIGHT.</p>
+            <p>THe Originall Papers were read, and this is publiſhed for generall ſatisfaction to the Kingdom.</p>
+            <p>London, Printed for Richard Robinſon, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:162467:2"/>
+            <pb n="1" facs="tcp:162467:2"/>
+            <head>A LETTER From the Iſle of WIGHT Concerning the ARMY.</head>
+            <p>MUnday Nov. 27. comes a letter to the Parlia<g ref="char:EOLhyphen"/>ment from Col. Hamond (Governour of the Iſle of Wight) and in it another incloſed from the Lord Gen. commanding him to come to the head quarters; as alſo an intimation that ſome Orders were given to Col. Ewers, to be Goxernour of Carisbrook ca<g ref="char:EOLhyphen"/>ſtle, and for ſecuring the perſon of the King. After the Parl. had debated this buſineſſe, they voted that Col. Hamond ſhould ſtill continue Governour of the Iſle of Wight; and ordered that a letter from the Houſe
+<pb n="2" facs="tcp:162467:3"/>ſhould be ſent to the Lo: Generall to acquaint him with theſe Votes, and to deſire him to countermand his Letter, for calling Col. Hamond to attend at the Head-quarters, in regard they thought him fit to con<g ref="char:EOLhyphen"/>tinue his command in the Iſle of Wight.</p>
+            <p>Col. Hamond conceives himſelf to ow<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> immediate obedience to the Lo: Gen. orders, for that the Parlia<g ref="char:EOLhyphen"/>ment had made him commander in chief of all the for<g ref="char:EOLhyphen"/>ces, &amp;c. and his power was derived by Commiſſion by his Excellency, and thereupon leaves the command of that Iſland to Col. Ewers, and the rather for that Col. Hamond was informed that Col. Ewers had pow<g ref="char:EOLhyphen"/>er in caſe of refuſall to force the command of that I<g ref="char:EOLhyphen"/>ſland, which might upon the offer of the leaſt reſiſt<g ref="char:EOLhyphen"/>ance occaſion a very great trouble and diſturbance in the Kingdom, but whether Col. Ewers, or Major Rolfe hath the preſent <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſtody of the perſon of the King, was not yet known.</p>
+            <p>The Commiſſioners are comming away and it is ſaid that on Munday laſt which was the laſt day of the Treaty, his Majeſty was at liberty, and the Commiſſi<g ref="char:EOLhyphen"/>oners ſolemnly kiſſed his Majeſties hand, and took their leaves.</p>
+            <p>The 28 of November went from London to the head<g ref="char:EOLhyphen"/>quarters at Winſor, divers of the City agents and pro<g ref="char:EOLhyphen"/>pound that the Generall engagement of the people might be haſtned in ſaying the remonſtrance lately preſented to the houſe give not ſufficient ſatisfaction deſiring no time might be loſt in the going on in that great work, which was taken into conſideration by the Gen. Councell.</p>
+            <p>Major Cromwell which brought Col. Hamonds
+<pb n="3" facs="tcp:162467:3"/>letter before ſpoken of, and was imployed to carry un<g ref="char:EOLhyphen"/>to him the Votes of the Houſe for Col. Hamond to continue his command in the Iſle of Wight, returned by Windſor thinking that the ſaid Col. might be come thither by that time, and having not the Lord Genera<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> paſſe he was one night deteined at Windſo, and this day taking his journey towards the Iſle of Wight, he met about Faraham Col. Hamond, comming towards the Head-quarters and with him Col. Ewers, and divers other Officers then Major Cromwell delivered the let<g ref="char:EOLhyphen"/>ters and votes of both Houſer of Parliament for Col. Hamonds ſtay in the Iſle of Wight, to which he ſaid he would give obedience and haſtned to return back again to his former charge but ſome of thoſe with him.</p>
+            <p>The 30. of Nov. the Generall Councell of the Army paſſed a Declaration, ſhewing that they had made their applications to the preſent Houſe of Commons for a<g ref="char:EOLhyphen"/>voiding of dangers, and ſetling the kingdom in peace &amp; righteouſneſſe, with equall conſtitutions of Parl. to bee ratified by an Agreement and Subſcription of the peo<g ref="char:EOLhyphen"/>ple; but they find their Remonſtrance wholly rejected, and the conſideration put off till there ſhould bee no place at all left for it: yet do they not preſume that the things propounded by them, muſt be conſidered, ſave for the Reaſon, Juſtice, and publike concernment there<g ref="char:EOLhyphen"/>of.</p>
+            <p>And ſeeing the prevailing part of the Houſe wilfully ſhut their eyes, and ſtop their ears againſt any thing of Light or Reaſon, they find no place left for any chari<g ref="char:EOLhyphen"/>table hopes concerning their errour in ſuch evil wayes. Nevertheleſſe, the Army aſſume not a ſtanding power acknowledging that lyes moſt properly in thoſe whom the people doth chuſe, and truſt to judge for them.</p>
+            <pb n="4" facs="tcp:162467:4"/>
+            <p> But conſidering that ſuch power where it is, is com<g ref="char:EOLhyphen"/>mitted but in truſt, and that neither this, nor any other people, did ever give up their naturall capacities of common Sence or Reaſon, as to the ends and Innda<g ref="char:EOLhyphen"/>mentals of that truſt, and that as to the breach of ſuch truſt, there is no higher formal power of man in being to appeal unto for judgment, ſo as we cannot but ex<g ref="char:EOLhyphen"/>erciſe that common Judgment which in our naturall capacity is left to us. And though in ſmaller failers of ſuch truſt, which might be born without hazard of de<g ref="char:EOLhyphen"/>ſtruction to that Intereſt and thoſe people, for which eſpecially the truſt is, or where the Truſtees were of an indifferent equall conſtitution, in reference to the whole, or where we had an orderly and open way left for a juſt ſucceſſion of another formall and proper Judicature to be apealed unto in due time; we ſhould not oppoſe or hold forth our private judgments to the leaſt diſturbance of that orderly and peaceable courſe of judgment ſo eſtabliſht; yet we are ſo fully convin<g ref="char:EOLhyphen"/>ced of the deſtructiveneſſe of thoſe evils we have de<g ref="char:EOLhyphen"/>clared againſt, as that we dare with confidence apeale to the common judgments of indifferent and uncor<g ref="char:EOLhyphen"/>rupted men.</p>
+            <p>
+               <hi>The Army do therefore deſire and propound.</hi>
+               <list>
+                  <item>1 That the Majory of the Parliament would be ſenſi<g ref="char:EOLhyphen"/>ble of the evill and destructiveneſſe of their late way, &amp; apply themſelves to the ſpeedy executing of Iustice, with the righting and eaſing of the diſtreſsed people.</item>
+                  <item>2 That ſo many of them as are toucht with a ſence of theſe things, would by proteſtation acquit themſelves of breach of truſt and withdraw from that perſiſt in the guilt thereof.</item>
+               </list>
+            </p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="5" facs="tcp:162467:4"/>
+                  <head>A Letter ſent from the Lord Gen. Fairfax, to the Lord Major, Aldermen, and Common-councell of the Ci<g ref="char:EOLhyphen"/>ty of London.</head>
+                  <opener>
+                     <salute>My Lord and Gentlemen,</salute>
+                  </opener>
+                  <p>BEing upon an immediate advance with the Army to<g ref="char:EOLhyphen"/>wards London, we thought good hereby to give you no<g ref="char:EOLhyphen"/>tice thereof. For the ground and neceſſity loading us <gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>re<g ref="char:EOLhyphen"/>unto we refer you to our late Remonſtrance, and to our la<g ref="char:EOLhyphen"/>ter Declaration concerning the ſame. We have onely this ther to add, That as we are for from the least thought of plunder or other wrong to your City, or any the places ad<g ref="char:EOLhyphen"/>joyning which we hope your former experience of us will give you cauſe enough to credit us) ſo for the better pre<g ref="char:EOLhyphen"/>vention of any diſorder in the Souldiery, or of any abuſe or inconvenience to the Inhabitants in the quartering of the ſouldiery at private houſes, we earneſtly deſire. That you would take a preſent courſe for the ſupply of Money to pay theſe forces, while we ſhall be neceſſitated to stay there; upon which we aſsure you, we ſhall ſo diſpoſe of them into great and void houſes about the City as much as may be poſſible, as that few or none of the Inhabitants ſhall be troubled with quartering of any ſoldiers at all: And for the p<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r<g ref="char:EOLhyphen"/>poſe, we defire that 40000. li. may be forthwith provided upon theſe curity of your arrears, to be ready to be paid out to the Forces to morrow night if poſſible: And we ſhall be ready to receive from you any intimations for the further prevention of hurt or inconveniences to the City in this buſineſse, I remain</p>
+                  <closer>
+                     <signed>Your moſt aſſured friend and ſervant, T. FAIRFAX.</signed>
+                     <dateline>Windſor <date>
+                           <gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>0. Nov. 1648.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb n="6" facs="tcp:162467:5"/>
+            <p> The Lord Major, Aldermen, and Common-councell ſate all night in debate of the B. Gen. letter to the City, and came to this reſult, viz. That the money ſhould be paid forthwith, and a Committee was choſen to carry a letter to the L. Gen. to this eſſect.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>May it pleaſe your Excellency,</salute>
+                  </opener>
+                  <p>THe Lord Mairr, Aldermen, and Common councell of the City of London, have debated in Common councell your Lordſhips letter of the 30. Nov. last, &amp; have agreed that the 40000. li. required for the Army (to whom is at leaſt 80000. li. due from the City) ſhall be paid this pre<g ref="char:EOLhyphen"/>ſent Saturday, or the greateſt part thereof, deſiring that no violence or iniury be done to the City.</p>
+                  <closer>
+                     <signed>Signed MICHEL.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>The laſt night came a Letter from his Excellency for diſcharging the horſe of the Mewes which former<g ref="char:EOLhyphen"/>ly garded the houſe, his excellency lets them know that he intends to make that his head quarters for his horſe ad thoſe that addreſſe themſelves to the Army ſhall be accepted, &amp;c.</p>
+            <p>It is reported with much confidence the King is this day to be removed from the Iſle of Wight to Harſt caSle, whereof col. Ewers is Governour, the head<g ref="char:EOLhyphen"/>quarters of the Army were this day at Hammer-ſmith and at night are expected at St. Jameſes, and many of the Horſe are already come to the Mewes.</p>
+         </div>
+         <trailer>FINIS:</trailer>
+      </body>
+   </text>
+</TEI>
